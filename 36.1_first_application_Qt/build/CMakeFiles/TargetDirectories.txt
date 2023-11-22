@@ -1,0 +1,4 @@
+/home/leyalutik/36.1_first_application_Qt/build/CMakeFiles/main.dir
+/home/leyalutik/36.1_first_application_Qt/build/CMakeFiles/edit_cache.dir
+/home/leyalutik/36.1_first_application_Qt/build/CMakeFiles/rebuild_cache.dir
+/home/leyalutik/36.1_first_application_Qt/build/CMakeFiles/main_autogen.dir

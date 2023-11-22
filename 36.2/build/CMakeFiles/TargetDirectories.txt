@@ -1,0 +1,4 @@
+/home/leyalutik/Desktop/git/qt/36.2/build/CMakeFiles/main.dir
+/home/leyalutik/Desktop/git/qt/36.2/build/CMakeFiles/edit_cache.dir
+/home/leyalutik/Desktop/git/qt/36.2/build/CMakeFiles/rebuild_cache.dir
+/home/leyalutik/Desktop/git/qt/36.2/build/CMakeFiles/main_autogen.dir
